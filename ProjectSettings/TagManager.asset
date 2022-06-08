@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PermanentTerrain
+  - Terrain
+  - MouseCursor
+  - Particle
+  - PlatformParticle
+  - OffensiveParticle
+  - GlobalSound
+  - Enemy
+  - Exit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - BG1
+  - BG2
+  - BG3
+  - BG4
+  - BG0
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemies
+    uniqueID: 3751185563
+    locked: 0
+  - name: PermanentTerrain
+    uniqueID: 4192428687
+    locked: 0
+  - name: Terrain
+    uniqueID: 1702630209
+    locked: 0
+  - name: StartingTerrain
+    uniqueID: 3041680731
+    locked: 0
+  - name: StartingTerrain2
+    uniqueID: 1399346513
+    locked: 0
+  - name: Outlines
+    uniqueID: 3881550435
+    locked: 0
+  - name: Debris
+    uniqueID: 4091550937
+    locked: 0
+  - name: RedParticle
+    uniqueID: 593249329
+    locked: 0
+  - name: GreenParticle
+    uniqueID: 1775558001
+    locked: 0
+  - name: BlueParticle
+    uniqueID: 4060103985
+    locked: 0
+  - name: Player
+    uniqueID: 3764930259
+    locked: 0
+  - name: MouseCursor
+    uniqueID: 3038776335
+    locked: 0
+  - name: UI
+    uniqueID: 1227788725
+    locked: 0
